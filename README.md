@@ -1,2 +1,4 @@
 # sklearn-tutorial
-This repository contains Jupyter notebooks explaining sklearn fundamental concepts
+This repository contains tutorials for sklearn library.
+
+Credits: Knowledge Shelf - https://www.youtube.com/knowledgeshelf
